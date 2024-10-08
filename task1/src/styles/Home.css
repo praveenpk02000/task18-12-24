@@ -1,0 +1,17 @@
+.home {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f0f8ff;
+    opacity: 0.8;
+  }
+  
+  .home h1 {
+    color: #333;
+    font-size: 2.5rem;
+  }
+  
+  .home p {
+    color: #666;
+    font-size: 1.2rem;
+  }
+  
