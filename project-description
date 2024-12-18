@@ -1,4 +1,4 @@
 it is used to update employee details
 it connects with the mango db database
-the data will be stored based on the credentials.
-the images will also be stored in tha databas.
+the images will be stored based the credentilas.
+the data is visible for the admin to check the employee details
